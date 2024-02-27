@@ -1,0 +1,33 @@
+<node name="the chris groove project">
+	
+	<node name="info">
+		<node url="#top" name="profile" desc="Starting to spin on vinyls in 1993 was among the first of the djs that introduced this style of music in Romania. Was invited to clubs and parties all over the country and had several radio shows. Definettly will set the 'groove' in the house!"/>
+		<node name="music" desc="My house is your house..." url="sendmail:chryss@mail.dntis.ro"/>
+	</node>
+	
+	<node url="#top" name="photos" desc="something about my face on vinyl">
+	</node>
+	
+	
+	<node name="favorite">
+		<node url="#top" name="top 10s" desc="Artist | Title | Label"/>
+		<node url="#top" name="favorite DJs" desc="Favorite DJs, Artists & Producers"/>
+		<node url="#top" name="favorite sites" desc="The Resources category offers a slightly different focus as it features pointers to music, labels and other such useful sites."/>
+	</node>
+	
+	<node name="contact">
+		<node url="#top" name="guestbook" desc="public entries"/>
+		<node url="#top" name="mailing list" desc="please subscribe"/>
+		<node url="#top" name="message board" desc="topic"/>
+	</node>
+	
+	<node name="news">
+		<node name="march 4, 2001" url="#top" desc="viper | beta"/>
+		<node name="march 5, 2001" url="#top" desc="corona party | launch v4.2"/>
+		<node url="#top" name="march 7, 2001" desc="......."/>
+	</node>
+	
+	<node url="#top" name="mix sets" desc="my music...">
+	</node>
+
+</node>

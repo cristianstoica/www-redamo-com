@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2852</un:offset1>
+    <un:offset2>2937</un:offset2>
+    <un:linenum>106</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5289</un:offset1>
+    <un:offset2>5352</un:offset2>
+    <un:linenum>134</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5487</un:offset1>
+    <un:offset2>5550</un:offset2>
+    <un:linenum>140</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5913</un:offset1>
+    <un:offset2>5976</un:offset2>
+    <un:linenum>152</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6195</un:offset1>
+    <un:offset2>6258</un:offset2>
+    <un:linenum>160</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6455</un:offset1>
+    <un:offset2>6543</un:offset2>
+    <un:linenum>168</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6662</un:offset1>
+    <un:offset2>6724</un:offset2>
+    <un:linenum>174</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6844</un:offset1>
+    <un:offset2>6906</un:offset2>
+    <un:linenum>178</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>ALT of image is the empty string "".</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2852</un:offset1>
+    <un:offset2>2937</un:offset2>
+    <un:linenum>106</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5289</un:offset1>
+    <un:offset2>5352</un:offset2>
+    <un:linenum>134</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5487</un:offset1>
+    <un:offset2>5550</un:offset2>
+    <un:linenum>140</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5913</un:offset1>
+    <un:offset2>5976</un:offset2>
+    <un:linenum>152</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6195</un:offset1>
+    <un:offset2>6258</un:offset2>
+    <un:linenum>160</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6455</un:offset1>
+    <un:offset2>6543</un:offset2>
+    <un:linenum>168</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6662</un:offset1>
+    <un:offset2>6724</un:offset2>
+    <un:linenum>174</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6844</un:offset1>
+    <un:offset2>6906</un:offset2>
+    <un:linenum>178</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AREAwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>7196</un:offset1>
+    <un:offset2>7281</un:offset2>
+    <un:linenum>192</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AREAwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>7285</un:offset1>
+    <un:offset2>7374</un:offset2>
+    <un:linenum>193</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AREAwEquivalentALT</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>7378</un:offset1>
+    <un:offset2>7472</un:offset2>
+    <un:linenum>194</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>7498</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>7498</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5650</un:offset1>
+    <un:offset2>5721</un:offset2>
+    <un:linenum>145</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>5810</un:offset1>
+    <un:offset2>5894</un:offset2>
+    <un:linenum>150</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6267</un:offset1>
+    <un:offset2>6357</un:offset2>
+    <un:linenum>161</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>6733</un:offset1>
+    <un:offset2>6825</un:offset2>
+    <un:linenum>175</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>189</un:offset1>
+    <un:offset2>2621</un:offset2>
+    <un:linenum>6</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2753</un:offset1>
+    <un:offset2>7140</un:offset2>
+    <un:linenum>104</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2704</un:offset1>
+    <un:offset2>7489</un:offset2>
+    <un:linenum>102</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2704</un:offset1>
+    <un:offset2>7489</un:offset2>
+    <un:linenum>102</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains GIF images: Are they causing the screen toflicker? If so, please modify or remove the images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2704</un:offset1>
+    <un:offset2>7489</un:offset2>
+    <un:linenum>102</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///C|/Documents and Settings/chris/My Documents/sites/redamo.com/Templates/butterfly.dwt</un:fileurl>
+    <un:offset1>2704</un:offset1>
+    <un:offset2>7489</un:offset2>
+    <un:linenum>102</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>

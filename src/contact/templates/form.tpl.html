@@ -1,0 +1,160 @@
+<HTML><!-- InstanceBegin template="/Templates/butterfly.dwt" codeOutsideHTMLIsLocked="false" -->
+<HEAD>
+<!-- InstanceBeginEditable name="doctitle" -->
+<TITLE>redamo</TITLE>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="redamo.css">
+</HEAD>
+<BODY> 
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0> 
+  <TR> 
+    <TD HEIGHT=325 ROWSPAN=2 BGCOLOR=#FFFFFF><p><img src="../../images/logo.png" alt="studio de publicitate" width="197" height="64" hspace="10" vspace="10"></p> 
+      <div class="subs-navbar"> 
+        <ul> 
+          <li><a href="../../index.html">Acasa</a></li> 
+          <li><a href="../../portfolio.html">Agentie</a></li> 
+          <li><a href="../../internet.html">Solutii</a></li> 
+          <li><a href="../../oferta.html">Servicii</a></li> 
+          <li><a href="../../contact">Suport</a></li> 
+          <li><a href="../../linkuri.html">Linkuri</a></li> 
+        </ul> 
+      </div></TD> 
+    <TD HEIGHT=434 ROWSPAN=3 BGCOLOR=#FFFFFF width="100%"><div class="content"><!-- InstanceBeginEditable name="content" --> 
+        <h4>Contacteaza Redamo Studio</h4> 
+        <!-- Display error messages (required fields etc.) --> 
+        <LOOP NAME="message"> 
+        <blockquote style="color:#FF5F00;"> 
+          <p style="font-weight:bold;">{message}</p> 
+          <blockquote>{fields}</blockquote> 
+        </blockquote> 
+        </LOOP NAME="message"> 
+        <!-- Display posted information --> 
+        <LOOP NAME="display_data"> 
+        <table border="0" cellpadding="3" cellspacing="0"> 
+          <tr> 
+            <td class="index">{txt_firstname}</td> 
+            <td>&nbsp;&nbsp;&nbsp;</td> 
+            <td>{firstname}</td> 
+          </tr> 
+          <tr> 
+            <td class="index">{txt_lastname}</td> 
+            <td>&nbsp;&nbsp;&nbsp;</td> 
+            <td>{lastname}</td> 
+          </tr> 
+          <tr> 
+            <td class="index">{txt_email}</td> 
+            <td>&nbsp;&nbsp;&nbsp;</td> 
+            <td>{email}</td> 
+          </tr> 
+          <tr> 
+            <td class="index">{txt_subject}</td> 
+            <td>&nbsp;&nbsp;&nbsp;</td> 
+            <td>{subject}</td> 
+          </tr> 
+          <tr valign="top"> 
+            <td class="index">{txt_comment}</td> 
+            <td>&nbsp;&nbsp;&nbsp;</td> 
+            <td>{comment}</td> 
+          </tr> 
+          <tr> 
+            <td>&nbsp;</td> 
+            <td>&nbsp;</td> 
+            <td>&nbsp;</td> 
+          </tr> 
+        </table> 
+        </LOOP NAME="display_data"> 
+        <!-- Display form --> 
+        <IF NAME="display_form"> 
+        <form action="{script_self}" method="post"> 
+          <input type="hidden" name="required_fields" value="lastname, email, subject" /> 
+          <input type="hidden" name="email_fields" value="email" /> 
+          <input type="hidden" name="html_template" value="form.tpl.html" /> 
+          <input type="hidden" name="mail_template" value="mail.tpl.txt" /> 
+          <!-- <input type="hidden" name="thanks" value="./docu/thanks.html" /> --> 
+          <table border="0" cellpadding="3" cellspacing="0"> 
+            <tr> 
+              <td class="index">{txt_firstname}</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td><input type="Text" name="firstname" value="{firstname}" size="40" /></td> 
+            </tr> 
+            <tr valign="bottom"> 
+              <td class="index">{txt_lastname} *</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td> <input type="Text" name="lastname" value="{lastname}" size="40" /> </td> 
+            </tr> 
+            <tr valign="bottom"> 
+              <td class="index">{txt_email} *</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td> <input type="Text" name="email" value="{email}" size="40" /> </td> 
+            </tr> 
+            <tr> 
+              <td valign="bottom" class="index">{txt_subject} *</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td> <input type="Text" name="subject" value="{subject}" size="40" /> </td> 
+            </tr> 
+            <tr valign="top"> 
+              <td class="index">{txt_comment}</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td><textarea name="comment" cols="30" rows="8">{comment}</textarea></td> 
+            </tr> 
+            <tr valign="top"> 
+              <td>&nbsp;</td> 
+              <td>&nbsp;&nbsp;&nbsp;</td> 
+              <td> <input type="submit" name="mode_preview" value="{txt_preview}" /> 
+&nbsp;&nbsp; 
+                <input type="submit" name="send" value="{txt_submit}" /> </td> 
+            </tr> 
+          </table> 
+        </form> 
+        <p>* = {txt_mandatory_fields}</p> 
+        </IF NAME="display_form"> <!-- InstanceEndEditable --></div></TD> 
+    <TD COLSPAN=2 BGCOLOR=#FFFFFF align="right"></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=176 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD COLSPAN=2 ROWSPAN=3 valign="bottom"> <IMG SRC="../../images/redamo_04.gif" ALT="afacere pe internet vanzari online campanie promovare web servicii de reclama solutii pentru a creste traficul siteului" WIDTH=304 HEIGHT=259></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=149 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD ROWSPAN=3 valign="bottom"> <IMG SRC="../../images/redamo_05.gif" WIDTH=307 HEIGHT=117></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=109 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD style="background:url(../../images/redamo_06.gif);" height=1></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=1 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD BGCOLOR=#FFFFFF style="background:url(../../images/spacer.gif);" height=7></TD> 
+    <TD ROWSPAN=5> <IMG SRC="../../images/redamo_08.gif" WIDTH=165 HEIGHT=165></TD> 
+    <TD ROWSPAN=2 BGCOLOR=#FFFFFF> <IMG SRC="../../images/spacer.gif" WIDTH=139 HEIGHT=9 ALT=""></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=7 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD ROWSPAN=2> <IMG SRC="../../images/redamo_10.gif" WIDTH=307 HEIGHT=114 ALT=""></TD> 
+    <TD ROWSPAN=2 style="background:url(../../images/redamo_11.gif);" height="114"> </TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=2 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD> <IMG SRC="../../images/redamo_12.gif" ALT="" WIDTH=139 HEIGHT=112 border="0" usemap="#Map"></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=112 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD ROWSPAN=2> <IMG SRC="../../images/redamo_13.gif" WIDTH=307 HEIGHT=44></TD> 
+    <TD BGCOLOR=#FFFFFF style="background:url(../../images/redamo_14.gif);" height=8> </TD> 
+    <TD ROWSPAN=2> <IMG SRC="../../images/redamo_15.gif" WIDTH=139 HEIGHT=44 ALT=""></TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=8 ALT=""></TD> 
+  </TR> 
+  <TR> 
+    <TD HEIGHT=36 BGCOLOR=#FFFFFF>&nbsp;</TD> 
+    <TD> <IMG SRC="../../images/spacer.gif" WIDTH=1 HEIGHT=36 ALT=""></TD> 
+  </TR> 
+</TABLE> 
+<map name="Map"> 
+  <area shape="rect" coords="17,4,80,22" href="../../contact" target="_top" alt="contact"> 
+  <area shape="rect" coords="20,95,64,110" href="../../index.html" target="_top" alt="romana"> 
+  <area shape="rect" coords="67,95,116,110" href="../../en/index.html" target="_top" alt="english"> 
+</map> 
+</BODY>
+<!-- InstanceEnd --></HTML>
